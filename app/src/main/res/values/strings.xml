@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alea</string>
+    <string name="wallpaper_description">Minimal</string>
+    <string name="tutorial">Swipe horizontaly to change the background. \n\n Double tap to apply the background.</string>
+    <string name="doubletap">Double tap to apply the background.</string>
+
+    <string name="title_activity_tuto">TutoActivity</string>
+
+
+
+</resources>
