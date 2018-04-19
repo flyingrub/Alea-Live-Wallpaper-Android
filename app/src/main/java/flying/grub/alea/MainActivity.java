@@ -16,7 +16,7 @@ import android.webkit.WebView;
 
 public class MainActivity extends Activity {
 
-    private static final int MAX = 18;
+    private static final int MAX = 19;
     private WebView webview;
     private int alea;
     SharedPreferences settings;
